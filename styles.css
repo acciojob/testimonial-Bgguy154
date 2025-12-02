@@ -9,7 +9,7 @@
     width: 80%; /* Adjust width as needed */
 }
 
-body{
+.testimonial{
 	display:flex;
 	flex-direction:column;
 	gap:26px;
